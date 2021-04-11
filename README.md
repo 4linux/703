@@ -1,10 +1,10 @@
-#703 - Linux System Administrator 
-Repositório destinado para desafios e exercícios do curso 703 - Linux System Administrator .
+# 703 - Linux System Administrator 
 
+Repositório destinado para desafios e exercícios do curso 703 - Linux System Administrator .
 
 Os desafios e exercícios seguem esta estrutura, dentro de cada semana podemos encontrar desafios e exercícios de revisão do conteúdo visto em sala de aula com suas respectivas respostas.
 
-*Obs: Consulte as resposta apenas em caso de não conseguir executar o exercício ou desafio :-)
+*Obs: Consulte as resposta apenas em caso de não conseguir executar o exercício ou desafio.*
  
 ```shell
 tree

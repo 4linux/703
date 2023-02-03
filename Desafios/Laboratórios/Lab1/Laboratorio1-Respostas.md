@@ -58,3 +58,4 @@ ou
 
 ##### Resposta:
 `cat /etc/* > /dev/null 2>&1`
+

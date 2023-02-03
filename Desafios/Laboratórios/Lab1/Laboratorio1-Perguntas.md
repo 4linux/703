@@ -22,3 +22,4 @@
 ### 9) Use o comando que mostra quantas linhas possui o arquivo /etc/passwd usando o caminho absoluto.
 
 ### 10) Com um só comando tente ler todo o conteúdo do diretório (arquivos e pastas) /etc encaminhando a saída normal para o /dev/null e a saída de erros também. Lembre-se o comando cat lê somente arquivos de textos e quando é executado passando como parâmetro um diretório é gerada uma saída de erro.
+

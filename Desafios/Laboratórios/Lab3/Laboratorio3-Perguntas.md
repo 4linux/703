@@ -23,3 +23,4 @@
 ### 9) Execute o comando ls no VIM com o arquivo poesia.txt aberto.
 
 ### 10) Com o arquivo poesia.txt aberto, sair sem gravar do editor VIM.
+

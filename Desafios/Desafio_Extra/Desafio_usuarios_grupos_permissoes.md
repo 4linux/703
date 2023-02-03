@@ -65,3 +65,4 @@
 - O funcionário Thiago Santos deverá ter permissão para desligar o computador;
 - O diretores Leonardo Amorim e Cesar Domingos solicitaram a geração de uma senha segura com o comando dd para que ele memorizasse;
 - Não esquecer de fazer um check-list para verificar se os usuários foram realmente criados, se as permissões e donos das pastas estão corretos.
+

@@ -27,4 +27,4 @@ Os desafios e exercícios seguem a seguinte estrutura:
 └── README.md
 ```
 
-### **Obs: Consulte as respostas apenas em caso de não conseguir executar o exercício ou desafio.**
+#### **Obs: Consulte as respostas apenas em caso de não conseguir executar o exercício ou desafio.**
